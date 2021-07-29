@@ -12,11 +12,9 @@ function Home() {
             </div>
             <div>
                 <Body />
-                
             </div>
             <div>
                 <Footer />
-                
             </div>
         </div>
     )
