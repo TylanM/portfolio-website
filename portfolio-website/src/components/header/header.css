@@ -10,7 +10,7 @@
 .menu {
     display: flex;
     flex: 1;
-    justify-content: end;
+    justify-content: flex-end;
 }
 
 .menu-icon {
