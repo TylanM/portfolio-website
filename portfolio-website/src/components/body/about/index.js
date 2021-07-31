@@ -1,5 +1,6 @@
 import React from 'react'
 import "./about.css"
+import SocialContact from '../../common/social-contact'
 
 function About() {
     return (
@@ -14,9 +15,7 @@ function About() {
                     <img src={require('../../../assets/programmer.png').default} alt='' className='about-image' />
                 </div>
             </div>
-            <div className='about-bottom'>
-                
-            </div>
+            <SocialContact />
         </div>
     )
 }
