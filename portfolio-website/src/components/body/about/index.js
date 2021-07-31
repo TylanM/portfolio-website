@@ -3,11 +3,11 @@ import "./about.css"
 
 function About() {
     return (
-        <div className='about'> About Section
+        <div className='about'>
             <div className='about-top'>
                 <div className='about-info'>
-                 Hiya! <br />
-                 My name is <br />
+                 <span className="about-greeting">Hello!</span> <br /> <br />
+                 My name is <br /> 
                  <span className='info-name'>Tylan Bayley-McPherson</span>  
                 </div>
                 <div className="about-image">
