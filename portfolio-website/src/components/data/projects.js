@@ -10,11 +10,11 @@ export const ProjectData=[
     },
     {
         id:1,
-        title:'Random Project',
-        about:'This is a description about my random project. ',
-        tags:['ReactJs','NodeJs'],
-        demo:'demo link',
-        github: 'github link',
-        image: 'https://cdn.pixabay.com/photo/2017/01/22/12/07/imac-1999636_1280.png'
+        title:'Ray Tracer',
+        about:'Given an input file containing scene properties, this program will output a ppm image of raytraced ellipsoids. Ellipsoides are calculated and drawn using ray sphere intesection of a ray that goes though each pixel to collide with an obejct in the scene. ',
+        tags:['Python','Numpy'],
+        demo: '',
+        github: '',
+        image: require('../../assets/project-photos/raytrace.png').default,
     }
 ]
