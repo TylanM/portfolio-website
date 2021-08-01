@@ -12,9 +12,6 @@ function Body() {
             <section id='about'>
                 <About />
             </section>
-            <section id='contact'>
-                <Contact />
-            </section>
             <section id='projects'>
                 <Projects />
             </section>
@@ -23,6 +20,9 @@ function Body() {
             </section>
             <section id='skills'>
                 <Skills />
+            </section>
+            <section id='contact'>
+                <Contact />
             </section>
         </div>
     )
