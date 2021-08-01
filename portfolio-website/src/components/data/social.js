@@ -1,7 +1,7 @@
 export const SocialData=[
     {
         platform:"Resume",
-        link:"google.com",
+        link: require('../../assets/resume.txt').default,
         icon: require('../../assets/icons/file-text-fill.svg').default,
     },
     {
