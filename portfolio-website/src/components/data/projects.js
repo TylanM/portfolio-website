@@ -2,8 +2,8 @@ export const ProjectData=[
     {
         id:1,
         title:'Sketchpad',
-        about:'This is a description about my random project. ',
-        tags:['ReactJs','NodeJs'],
+        about:'Sketchpad website that allows users to draw on a resizable canvas. Users can change the color of the pencil, erase, and use a rainbow tip to create doodles. ',
+        tags:['Javascript','CSS3','HTML5'],
         demo:'https://tylanm.github.io/sketchpad/',
         github: 'https://github.com/TylanM/sketchpad',
         image: require('../../assets/project-photos/project1.png').default,
