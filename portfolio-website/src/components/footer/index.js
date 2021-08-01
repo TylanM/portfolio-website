@@ -4,7 +4,7 @@ import './footer.css'
 function Footer() {
     return (
         <div className='footer'>
-            Copyright 2021
+            👋 Thank you for stopping by!  
         </div>
     )
 }

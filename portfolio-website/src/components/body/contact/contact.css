@@ -12,7 +12,7 @@
 .contact-container {
     display: flex;
     flex: 1;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     margin: 16px 0px;
 }
@@ -23,19 +23,6 @@
     text-align: center;
 }
 
-.download {
-    background-color: blue;
-    padding: 8px 16px;
-    font-size: 24px;
-    display: flex;
-    justify-content: center;
-    border-radius: 4px;
-}
-
-.download a {
-    text-decoration: none;
-    color: black;
-}
 
 @media only screen and (max-width:720px) {
     .contact-container {
