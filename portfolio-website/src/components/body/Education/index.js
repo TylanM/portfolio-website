@@ -1,9 +1,13 @@
 import React from 'react'
+import Separator from '../../common/separator'
+import './education.css'
 
 function Education() {
     return (
-        <div>
-            Education Section
+        <div className='education'>
+            <Separator />
+            <label className='section-title'>Education</label>
+            
         </div>
     )
 }
