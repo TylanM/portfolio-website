@@ -6,7 +6,7 @@ export const SocialData=[
     },
     {
         platform:"Email",
-        link:"google.com",
+        link:"mailto:tylanbm@gmail.com",
         icon: require('../../assets/icons/mail-fill.svg').default,
     },
     {
