@@ -8,11 +8,13 @@ function EducationCard({item}) {
             <div className='education-info'>
                 <label className='school-name'>{item.school}</label>
                 <div className="education-dates">
-                    <label>{item.dateJoining}</label>-<label>{item.dateEnd}</label>
+                    <label>{item.dateJoining}</label> - <label>{item.dateEnd}</label>
                 </div>
                 <div className='education-desc'>
+                    <p>{item.degree}</p>
                     <p>{item.desc}</p>
                 </div>
+                
 
             </div>
             
