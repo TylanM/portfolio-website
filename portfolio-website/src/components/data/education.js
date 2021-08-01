@@ -4,7 +4,7 @@ export const EducationData=[
         degree: 'Computer Science',
         dateJoining: 'Sep 2017',
         dateEnd: 'May 2021',
-        companyLogo: 'https://www.clipartmax.com/png/middle/157-1579717_20-international-entrance-scholarships-at-university-university-of-victoria-logo.png',
-        work: "Some words about my schooling",
+        companyLogo: 'https://ucs.chem.ubc.ca/files/2016/10/UVic-GIS.jpg',
+        desc: "Some words about my schooling",
     }
 ]
