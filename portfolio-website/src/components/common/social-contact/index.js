@@ -11,7 +11,7 @@ function SocialContact() {
                     <a href={item.link}>
                         <div className='social-icon-div'>
                             <div className='social-bundle-div'>
-                                <img src={item.icon} className='social-icon' />
+                                <img src={item.icon} className='social-icon' alt='' />
                                 <p className='social-label'>{item.platform}</p>
                             </div>
                         </div>
