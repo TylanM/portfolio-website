@@ -9,9 +9,10 @@
 }
 
 .about-image {
-    height: 3em;
+    height: 40vh;
     border: white 1px solid;
     border-radius: 50%;
+    border:2px dashed rgba(161, 52, 106);
 }
 
 .about-info {
@@ -36,11 +37,6 @@
     color: rgb(161, 52, 106);
 }
 
-.about-image {
-    height: 40vmin;
-    pointer-events: none;
-    position: relative;
-  }
   
 
 

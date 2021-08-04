@@ -6,7 +6,7 @@ export const ProjectData=[
         tags:['Javascript','CSS3','HTML5'],
         demo:'https://tylanm.github.io/sketchpad/',
         github: 'https://github.com/TylanM/sketchpad',
-        image: require('../../assets/project-photos/project1.png').default,
+        image: require('../../assets/project-photos/sketchpad-512-gs.png').default,
     },
     {
         id:1,
@@ -15,6 +15,6 @@ export const ProjectData=[
         tags:['Python','Numpy'],
         demo: '',
         github: '',
-        image: require('../../assets/project-photos/raytrace.png').default,
+        image: require('../../assets/project-photos/raytrace-512-gs.png').default,
     }
 ]

@@ -8,11 +8,15 @@
 }
 
 .project-photo {
-    width: 40%;
+    width: 25%;
+    border:2px dashed rgba(161, 52, 106);
+    border-radius: 50%;
+    
 }
 
 .project-info {
     margin-right: 24px;
+    width: 80%;
 }
 
 .project-title {
@@ -56,6 +60,8 @@
     margin-right: 6px;
     font-weight: 600;
 }
+
+
 
 .link-button i {
     display: flex;
