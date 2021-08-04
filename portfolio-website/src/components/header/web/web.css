@@ -5,9 +5,10 @@
 }
 
 .web-option {
-    font-size: 18px;
+    font-size: 20px;
     margin-right: 16px;
     font-weight: 600;
+    font-family: 'Dosis', sans-serif;
 }
 
 .web-option a {

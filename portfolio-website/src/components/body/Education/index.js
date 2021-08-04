@@ -9,7 +9,7 @@ function Education() {
     return (
         <div className='education'>
             <Separator />
-            <label className='section-title'>Education</label>
+            <label className='section-title'>EDUCATION</label>
             <div className='education-list'>
                 {data.map((item) => {
                     return (

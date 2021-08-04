@@ -8,11 +8,11 @@ function About() {
             <div className='about-top'>
                 <div className='about-info'>
                  <span className="about-greeting">Hello!</span> <br /> <br />
-                 My name is <br /> 
+                 <span className="about-prename">My name is</span> <br /> 
                  <span className='info-name'>Tylan Bayley-McPherson</span>  
                 </div>
                 <div className="about-image">
-                    <img src={require('../../../assets/programmer.png').default} alt='' className='about-image' />
+                    <img src={require('../../../assets/tylan-gs.png').default} alt='' className='about-image' />
                 </div>
             </div>
             <SocialContact />

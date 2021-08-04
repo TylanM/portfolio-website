@@ -5,6 +5,7 @@
     padding: 10px;
     position: relative;
     align-items: center;
+    
 }
 
 .menu {
@@ -27,10 +28,13 @@
 
 .logo {
     display: flex;
-    font-size: 30px;
-    color: rgb(48, 29, 216);
+    font-family: 'Londrina Solid', cursive;
+    font-size: 64px;
+    color: #a1346a;
     font-weight: 700;
 }
+
+
 
 @media only screen and (max-width:720px) {
     .mobile-menu {

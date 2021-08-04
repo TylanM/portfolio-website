@@ -7,7 +7,7 @@ function Contact() {
     return (
         <div className='contact'>
          <Separator />
-         <label className='section-title'>Contact</label>
+         <label className='section-title'>CONTACT</label>
          <div className='contact-container'>
              <div className='contact-left'>
                 <p>Want to get in touch? Click an option below.</p>

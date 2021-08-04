@@ -9,7 +9,9 @@
 }
 
 .about-image {
-    height: 420px;
+    height: 3em;
+    border: white 1px solid;
+    border-radius: 50%;
 }
 
 .about-info {
@@ -18,15 +20,29 @@
 }
 
 .info-name {
-    color: blue;
+    color: rgb(0, 0, 0);
+    font-size: 32px;
+}
+.about-prename {
+    margin-top: 6em;
+    color: rgb(119, 119, 119);
     font-size: 32px;
 }
 
 .about-greeting {
-    font-size: 64px;
-    font-weight: bold;
-    color: rgb(255, 223, 42);
+    font-family: 'Dosis', sans-serif;
+    font-size: 128px;
+    font-weight: 600;
+    color: rgb(161, 52, 106);
 }
+
+.about-image {
+    height: 40vmin;
+    pointer-events: none;
+    position: relative;
+  }
+  
+
 
 @media only screen and (max-width:720px) {
     .about-top {
