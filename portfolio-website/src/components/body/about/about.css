@@ -6,19 +6,21 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    
 }
 
 .about-image {
     height: 40vh;
-    border: white 1px solid;
     border-radius: 50%;
     border:2px dashed rgba(161, 52, 106);
+    
 }
 
 .about-info {
     font-size: 24px;
 
 }
+
 
 .info-name {
     color: rgb(0, 0, 0);
@@ -48,7 +50,8 @@
     }
 
     .about-image {
-        height: 280px;
+        height: 30vh;
+        
     }
 
     .about-info {

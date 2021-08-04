@@ -9,7 +9,8 @@ function About() {
                 <div className='about-info'>
                  <span className="about-greeting">Hello!</span> <br /> <br />
                  <span className="about-prename">My name is</span> <br /> 
-                 <span className='info-name'>Tylan Bayley-McPherson</span>  
+                 <span className='info-name'>Tylan Bayley-McPherson</span> <br /> <br />
+                 I am a lifelong learner, software engineer and recent computer science graduate excited to grow and apply my skills alongside industry professionals.  
                 </div>
                 <div className="about-image">
                     <img src={require('../../../assets/tylan-gs.png').default} alt='' className='about-image' />
