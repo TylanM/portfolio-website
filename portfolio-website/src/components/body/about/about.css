@@ -10,7 +10,7 @@
 }
 
 .about-image {
-    height: 40vh;
+    height: 30vmax;
     border-radius: 50%;
     border:2px dashed rgba(161, 52, 106);
     
@@ -50,7 +50,7 @@
     }
 
     .about-image {
-        height: 30vh;
+        height: 30vmax;
         
     }
 
