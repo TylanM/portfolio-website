@@ -13,7 +13,7 @@ function About() {
                  I am a lifelong learner, software engineer and recent computer science graduate excited to grow and apply my skills alongside industry professionals.  
                 </div>
                 <div className="about-image">
-                    <img src={require('../../../assets/tylan-gs.png').default} alt='' className='about-image' />
+                    <img src={require('../../../assets/tylan2449.jpg').default} alt='' className='about-image' />
                 </div>
             </div>
             <SocialContact />
