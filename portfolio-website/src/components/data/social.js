@@ -1,7 +1,7 @@
 export const SocialData=[
     {
         platform:"Resume",
-        link: require('../../assets/resume.txt').default,
+        link: require('../../assets/Tylan_Bayley-McPherson.pdf').default,
         icon: require('../../assets/icons/file-text-fill.svg').default,
     },
     {

@@ -1,7 +1,7 @@
 export const ProjectData=[
     {
         id:1,
-        title:'Sketchpad',
+        title:'Sketchpad Plus',
         about:'Sketchpad website that allows users to draw on a resizable canvas. Users can change the color of the pencil, erase, and use a rainbow tip to create doodles. ',
         tags:['Javascript','CSS3','HTML5'],
         demo:'https://tylanbm.github.io/sketchpad/',
@@ -20,7 +20,7 @@ export const ProjectData=[
     {
         id:1,
         title:'DevOps Research Simulation Project - Banking',
-        about:'Utilized Java and Java Modeling Tools and queuing theory to model and analyze the effects of different queueing models in a bank setting.',
+        about:'Utilized Java and Java Modeling Tools and queueing theory to model and analyze the effects of different queueing models in a bank setting.',
         tags:['Java','JMT', 'Excel', 'VBA Macros', 'Queueing Theory'],
         demo: '',
         github: 'https://github.com/tylanbm/research-simulation-project',
