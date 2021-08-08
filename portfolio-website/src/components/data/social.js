@@ -16,7 +16,7 @@ export const SocialData=[
     },
     {
         platform:"GitHub",
-        link:"https://github.com/TylanM",
+        link:"https://github.com/tylanbm",
         icon: require('../../assets/icons/github-fill.svg').default,
     },
 ];
